@@ -7,9 +7,9 @@ const header = {
     name: 'Ihor Kobrynovych',
     title: 'ABOUT',
     description:
-      'Results-oriented Software Developer with 4+ years of experience developing scalable, high-performance web applications. Proficient in modern JavaScript frameworks, such as React and Vue.js. Skilled in developing responsive and accessible UI components, optimizing performance, and integrating APIs. Adept at collaborating with cross-functional teams to deliver intuitive and user-friendly digital experiences. Passionate about writing clean and maintainable code while continuously learning new technologies.',
+      'Results-oriented Software Engineer with 4+ years of experience developing scalable, high-performance web applications. Proficient in modern JavaScript frameworks, such as React and Vue.js. Skilled in developing responsive and accessible UI components, optimizing performance, and integrating APIs. Adept at collaborating with cross-functional teams to deliver intuitive and user-friendly digital experiences. Passionate about writing clean and maintainable code while continuously learning new technologies.',
     // resume: 'https://drive.google.com/file/d/1YqISq5Q2qwUE6X8214Yd1xRjQgaChqsb/view?usp=sharing',
-    resume: 'https://drive.google.com/file/d/1Em_yjZEGNfihVfe1X7zS62ja521leSmu/view?usp=drive_link',
+    resume: 'https://drive.google.com/file/d/1RQFPNesYFOEi9gatp-ephJIeaN3XBjPe/view?usp=sharing',
     social: {
       linkedin: 'https://www.linkedin.com/in/kobrynovych',
       github: 'https://github.com/kobrynovych',
