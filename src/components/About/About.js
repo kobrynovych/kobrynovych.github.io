@@ -5,7 +5,7 @@ import { about } from '../../portfolio'
 import './About.css'
 
 const About = () => {
-  const { name, title, description, resume, social } = about
+  const { name, title, description, descriptionList, resume, social } = about
 
   return (
     <div className='about center'>
@@ -70,6 +70,15 @@ const About = () => {
 
       {title && <h2 className='about__title'>{title}</h2>}
       <p className='about__desc about__desc-desc'>{description && description}</p>
+
+      <ul className='about__desc about__list'>
+        {descriptionList &&
+          descriptionList.map((item, index) => (
+            <li key={index} className='about__list-item'>
+              {item}
+            </li>
+          ))}
+      </ul>
 
       <h2 className='about__title'>EDUCATION</h2>
       <p className='about__desc'>{about.education}</p>
