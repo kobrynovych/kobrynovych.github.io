@@ -264,6 +264,16 @@ export const projects = [
         sourceCode: 'https://github.com/kobrynovych/backend-db-Express-',
         // livePreview: '',
     },
+    {
+        id: 17,
+        name: 'Project',
+        foto: './img/cv24.png',
+        description:
+        'Vue_jsonplaceholder. An unfinished demonstration project developed to enhance my skills.',
+        stack: ['Vue', 'Vue-router', 'Pinia', 'JsonPlaceholder', 'gh-pages'],
+        sourceCode: 'https://github.com/kobrynovych/Vue_jsonplaceholder',
+        livePreview: 'https://kobrynovych.github.io/Vue_jsonplaceholder',
+    },
 ].reverse();
 
 export const skillsProgram = [
