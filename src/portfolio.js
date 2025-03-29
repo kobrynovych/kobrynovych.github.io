@@ -8,8 +8,7 @@ export const about = {
     title: 'ABOUT',
     description: 'Results-oriented Software Engineer with 4+ years of experience developing scalable, high-performance web applications. Proficient in modern JavaScript frameworks, such as React and Vue.js. Skilled in developing responsive and accessible UI components, optimizing performance, and integrating APIs. Adept at collaborating with cross-functional teams to deliver intuitive and user-friendly digital experiences. Passionate about writing clean and maintainable code while continuously learning new technologies.',
     descriptionList: [
-        'Over 4 years of experience with Vue, including migrating a complex project from Vue 2 to Vue 3.',
-        '1 year of experience with React, including 1 month working with React and TypeScript.',
+        'Experienced in migrating a complex project from Vue 2 to Vue 3.',
         'Experienced in migrating a large project from Webpack & Laravel Mix to Vite.',
         'Experienced in migrating a complex project from BootstrapVue & Bootstrap 4 to Bootstrap 5.',
         'Experienced in developing a text editor using TipTap, featuring collaboration, AI API integration, commenting, and version control.',
@@ -20,7 +19,8 @@ export const about = {
     ],
     // resume: 'https://drive.google.com/file/d/1YqISq5Q2qwUE6X8214Yd1xRjQgaChqsb/view?usp=sharing',
     // resume: 'https://drive.google.com/file/d/1RQFPNesYFOEi9gatp-ephJIeaN3XBjPe/view?usp=sharing',
-    resume: 'https://drive.google.com/file/d/1HK3QvKWadP8xHcXFl2YTD7eS0_v2DIhP/view?usp=sharing',
+    // resume: 'https://drive.google.com/file/d/1HK3QvKWadP8xHcXFl2YTD7eS0_v2DIhP/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/18AoCAZ93b6L7quYZimgm_jY6Y5PvuY7L/view?usp=sharing',
     social: {
         linkedin: 'https://www.linkedin.com/in/kobrynovych',
         github: 'https://github.com/kobrynovych',
