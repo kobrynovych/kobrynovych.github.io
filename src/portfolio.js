@@ -274,6 +274,16 @@ export const projects = [
         sourceCode: 'https://github.com/kobrynovych/Vue_jsonplaceholder',
         livePreview: 'https://kobrynovych.github.io/Vue_jsonplaceholder',
     },
+    {
+        id: 18,
+        name: 'Project',
+        foto: './img/cv25.jpg',
+        description:
+        'Inertia Props Inspector is a powerful developer tool that helps you debug and analyze props in Inertia.js applications. This extension allows you to easily inspect, track, and log Inertia props directly to your console, making development and troubleshooting faster and more efficient.',
+        stack: ['React', 'Chrome Extension', 'TypeScript', 'Vite'],
+        sourceCode: 'https://github.com/kobrynovych/InertiaPropsInspector',
+        livePreview: 'https://chromewebstore.google.com/detail/inertia-props-inspector/ajeapndikooapemjincggamhjggcmnii',
+    },
 ].reverse();
 
 export const skillsProgram = [
