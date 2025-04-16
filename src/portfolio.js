@@ -284,6 +284,16 @@ export const projects = [
         sourceCode: 'https://github.com/kobrynovych/InertiaPropsInspector',
         livePreview: 'https://chromewebstore.google.com/detail/inertia-props-inspector/ajeapndikooapemjincggamhjggcmnii',
     },
+    {
+        id: 19,
+        name: 'Project',
+        foto: './img/cv26.png',
+        description:
+        'The Emoji Framework Guessing Game is a fun puzzle game where players are asked to guess the name of a famous framework (most often web development) based on a combination of emojis.',
+        stack: ['React', 'Typescript', 'Lucide-React', 'Tailwindcss', 'Vite', 'gh-pages'],
+        sourceCode: 'https://github.com/kobrynovych/EmojiFrameworkGuessingGame',
+        livePreview: 'https://kobrynovych.github.io/EmojiFrameworkGuessingGame',
+    },
 ].reverse();
 
 export const skillsProgram = [
