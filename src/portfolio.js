@@ -294,6 +294,16 @@ export const projects = [
         sourceCode: 'https://github.com/kobrynovych/EmojiFrameworkGuessingGame',
         livePreview: 'https://kobrynovych.github.io/EmojiFrameworkGuessingGame',
     },
+    {
+        id: 20,
+        name: 'Project',
+        foto: './img/cv27.png',
+        description:
+        '"RPG Interview Game" - this is a React game where you choose a hero (React Wizard or Vue Ninja) and go through a quest-style interview with interactive questions about frontend development.',
+        stack: ['React', 'Typescript', 'Lucide-React', 'React-Confetti', 'Use-Sound', 'Tailwindcss', 'Vite', 'gh-pages'],
+        sourceCode: 'https://github.com/kobrynovych/RPGInterviewGame',
+        livePreview: 'https://kobrynovych.github.io/RPGInterviewGame',
+    },
 ].reverse();
 
 export const skillsProgram = [
